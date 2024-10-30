@@ -7,9 +7,9 @@ public class Ejercicio13 {
         System.out.println("el valor de a es:" + a);
         System.out.println("el valor de b es:" + b);
         //despues del cambio
-        a = a + b;
-        b = a - b;
-        a = a - b;
+        a = a * a / b;
+        b = a + a;
+        a = b + b;
         System.out.println("el valor de a es:" + a);
         System.out.println("el valor de b es:" + b);
 
