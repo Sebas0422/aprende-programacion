@@ -1,3 +1,5 @@
+package ejercicios;
+
 public class Ejercicio13 {
     //Intercambiar los valores de A y B sin utilizar una variable auxiliar.
     public static void main(String[] args) {
@@ -12,7 +14,5 @@ public class Ejercicio13 {
         a = b + b;
         System.out.println("el valor de a es:" + a);
         System.out.println("el valor de b es:" + b);
-
-
     }
 }

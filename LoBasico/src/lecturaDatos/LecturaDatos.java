@@ -1,3 +1,5 @@
+package lecturaDatos;
+
 import java.util.Scanner;
 
 public class LecturaDatos {

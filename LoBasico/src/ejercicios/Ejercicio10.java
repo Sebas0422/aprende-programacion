@@ -1,3 +1,5 @@
+package ejercicios;
+
 public class Ejercicio10 {
     public static void main(String[] args) {
         //Si el valor de A es 4, el valor de B es 5 y el valor de C es 1, calcular:

@@ -1,3 +1,5 @@
+package ejercicios;
+
 public class Ejercicio7 {
     //Cuál es el valor de x después de las siguientes operaciones?
     public static void main(String[] args) {

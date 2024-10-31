@@ -1,3 +1,5 @@
+package ejercicios;
+
 public class Ejercicio11 {
     public static void main(String[] args) {
         //Intercambiar los valores de A y B utilizando una variable auxiliar.

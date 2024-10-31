@@ -1,3 +1,5 @@
+package ejercicios;
+
 public class Ejercicio12 {
     public static void main(String[] args) {
         /*Escribir las instrucciones necesarias para intercambiar entre si los valores de 3 variables:

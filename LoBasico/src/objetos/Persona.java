@@ -1,3 +1,5 @@
+package objetos;
+
 public class Persona {
     //Atributos
     int edad;
